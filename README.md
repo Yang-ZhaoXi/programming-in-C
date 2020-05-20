@@ -1,2 +1,2 @@
 # programming-in-C
-the code of book "programming in c"
+learning C program
